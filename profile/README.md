@@ -4,6 +4,15 @@ This is an attempt at using nuxt layers to modularise complex functionality for 
 imagine this will be most useful when constructing small scale apps that only need common features.
 There is of course a trade off between flexability and development speed.
 
+This should give the developer instant access to users, accounts, email services, notifications and so on.
+So you can quickly get a prototype out of the door without worrying too much about these features that are more
+or less generic accross full stack applications.
+
+What this project wont provide:
+	Using this would not be suitable for scaling a web app, only for prototying and concept validation. This
+ 	would also be useful for very small scale web apps.
+
+
 ## Services
 
 This project is in its birthing stage the this list is very limeted and has limeted support of
